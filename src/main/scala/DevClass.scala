@@ -13,5 +13,7 @@ class DevClass {
     println("After Rebase")
     println("Changes from master branch1----1")
     println("Changes from master branch1----2")
+    println("changes from feature1 branch")
+    println("2nd change from feature1 branch")
   }
 }
