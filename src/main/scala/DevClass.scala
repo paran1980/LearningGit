@@ -16,12 +16,10 @@ class DevClass {
     println("changes from feature1 branch")
     println("2nd change from feature1 branch")
 
-
     ///
     ///
     println("new change from master---3")
     println("new chage from master branch---4")
-
     println("changes from feature1 branch")
 
     //---
