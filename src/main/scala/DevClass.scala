@@ -27,6 +27,8 @@ class DevClass {
     println("change from feature branch --3")
     println("change from feature branch --4")
 
+    println("change to feature branch --5")
+    println("change to feature branch -6")
 
     //--
   }
