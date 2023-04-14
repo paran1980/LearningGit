@@ -11,5 +11,7 @@ class DevClass {
 
     //After Rebase
     println("After Rebase")
+    println("Changes from master branch1----1")
+    println("Changes from master branch1----2")
   }
 }
